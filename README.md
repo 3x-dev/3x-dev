@@ -1,4 +1,4 @@
-## https://www.aisinghal.com/
+## Check out my website: https://www.aisinghal.com/
 
 <!--
 **3x-dev/3x-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
