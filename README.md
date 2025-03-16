@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.aisinghal.com/](https://www.aisinghal.com/)
 
-- 📫 How to reach me **aryan.singhal2016@gmail.com**
+- 📫 How to reach me: **aryan.singhal2016@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aryan-singhal-ai/](https://www.linkedin.com/in/aryan-singhal-ai/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/aryan-singhal-ai/](https://www.linkedin.com/in/aryan-singhal-ai/)
 
-- ⚡ Fun fact **I'm a third degree black belt in Taekwondo!**
+- ⚡ Fun fact: **I'm a third-degree black belt in Taekwondo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
