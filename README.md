@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sustaineo**
 
-- 👨‍💻 All of my projects are available at [https://www.aisinghal.com/](https://aisinghal.com/)
+- 👨‍💻 All of my projects are available at [https://aisinghal.com/](https://aisinghal.com/)
 
 - 📫 How to reach me: **singha74@purdue.edu**
 
