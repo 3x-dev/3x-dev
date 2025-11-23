@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Aryan</h1>
-<h3 align="center">A passionate AI engineer from sunny Silicon Valley ☀️</h3>
+<h1 align="center">Hey! I'm Aryan</h1>
+<!-- <h3 align="center">A passionate AI engineer from sunny Silicon Valley ☀️</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3x-dev&label=Profile%20views&color=0e75b6&style=flat" alt="3x-dev" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=3x-dev&label=Profile%20views&color=0e75b6&style=flat" alt="3x-dev" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ai3xtriple" target="blank"><img src="https://img.shields.io/twitter/follow/ai3xtriple?logo=twitter&style=for-the-badge" alt="ai3xtriple" /></a> </p>
 
