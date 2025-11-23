@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://aisinghal.com/](https://aisinghal.com/)
 
-- 📫 How to reach me: **singha74@purdue.edu**
+- 📫 How to reach me: [singha74@purdue.edu](mailto:singha74@purdue.edu)
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/aryan-singhal-ai/](https://www.linkedin.com/in/aryan-singhal-ai/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-singhal-ai/)!
 
 - ⚡ Fun fact: **I'm a third-degree black belt in Taekwondo!**
 
