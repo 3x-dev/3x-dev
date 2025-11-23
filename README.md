@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aisinghal.com/](https://aisinghal.com/)
 
-- 📫 How to reach me: [singha74@purdue.edu](mailto:singha74@purdue.edu)
+- 📫 How to reach me: [aryan.singhal2016@gmail.com](mailto:aryan.singhal2016@gmail.com)
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-singhal-ai/)!
 
