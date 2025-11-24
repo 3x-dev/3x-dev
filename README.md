@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ai3xtriple" target="blank"><img src="https://img.shields.io/twitter/follow/ai3xtriple?logo=twitter&style=for-the-badge" alt="ai3xtriple" /></a> </p> -->
 
-- 🔭 I’m currently working on **Sustaineo**
+- 🔭 I’m currently working on **GPUnity**
 
 - 👨‍💻 All of my projects are available at [https://aisinghal.com/](https://aisinghal.com/)
 
