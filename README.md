@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GPUnity**
 
-- 👨‍💻 All of my projects are available at [aisinghal.com/](https://aisinghal.com/)
+- 👨‍💻 All of my projects are available at [aisinghal.com](https://aisinghal.com/)
 
 - 📫 How to reach me: [aryan.singhal2016@gmail.com](mailto:aryan.singhal2016@gmail.com)
 
