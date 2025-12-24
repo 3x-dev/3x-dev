@@ -32,7 +32,7 @@
 
 **currently building**
 
-- [**GPUnity**](https://sustaineo-page.vercel.app/): agentic gpu orchestration engine that recommends, provisions, and manages hardware tailored to your codebase
+- [**GPUnity**](https://www.gpunity.dev/): agentic gpu orchestration engine that recommends, provisions, and manages hardware tailored to your codebase
 
 <br/>
 
