@@ -13,7 +13,7 @@
 ```
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&pause=900&color=e5e5e5&center=true&vcenter=true&width=520&lines=ai+%40+purdue;ml+engineer;building+with+agents;full+stack+developer"
+    src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&pause=900&color=e5e5e5&center=true&vcenter=true&width=520&lines=ai+%40+purdue;ml+engineer;building+with+agents;full+stack+developer;always+shipping"
     alt="Typing SVG"
   />
 </a>
@@ -42,4 +42,4 @@ python · pytorch · langchain · fastapi · react · aws · docker · postgresq
 
 </details>
 
-<sub>current focus: making compute decisions less stupid.</sub>
+<sub>current focus: making people's compute decisions less stupid.</sub>
