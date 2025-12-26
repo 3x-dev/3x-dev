@@ -38,7 +38,7 @@
 
 <details>
 <summary><strong>stack</strong></summary>
-python · pytorch · langchain · fastapi · react · aws · docker · postgresql
+python · pytorch · langchain · fastapi · react · aws · postgresql
 
 </details>
 
