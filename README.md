@@ -42,4 +42,4 @@ python · pytorch · langchain · fastapi · react · aws · postgresql
 
 </details>
 
-<sub>current focus: making people's compute decisions less stupid.</sub>
+<sub>current focus: derisking people's compute decisions.</sub>
