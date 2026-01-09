@@ -38,7 +38,7 @@
 
 <details>
 <summary><strong>stack</strong></summary>
-python · pytorch · langchain · fastapi · react · aws · supabase
+python · typescript · pytorch · fastapi · react · aws · supabase
 
 </details>
 
