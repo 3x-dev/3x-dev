@@ -39,7 +39,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-singhal&layout=donut&theme=tokyonight&langs_count=8&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-singhal&layout=donut&theme=tokyonight&langs_count=6&hide_border=true"
       alt="Top Languages (Donut)"
     />
   </a>
