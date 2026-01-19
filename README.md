@@ -35,11 +35,3 @@
 - [**GPUnity**](https://www.gpunity.dev/): agentic gpu orchestration engine that recommends, provisions, and manages hardware tailored to your codebase
 
 <br/>
-
-<details>
-<summary><strong>stack</strong></summary>
-python · typescript · pytorch · fastapi · react · aws · supabase
-
-</details>
-
-<sub>current focus: derisking people's compute decisions.</sub>
