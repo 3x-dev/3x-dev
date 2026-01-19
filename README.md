@@ -35,3 +35,12 @@
 - [**GPUnity**](https://www.gpunity.dev/): agentic gpu orchestration engine that recommends, provisions, and manages hardware tailored to your codebase
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-singhal&layout=donut&theme=tokyonight&langs_count=8&hide_border=true"
+      alt="Top Languages (Donut)"
+    />
+  </a>
+</p>
